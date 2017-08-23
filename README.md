@@ -8,9 +8,9 @@ Download the STL for the base plate [HERE](./STL/basePlate)
 
 Then download any other accessories you wish to use!
 
-### Future projects:
-* Hook
-* GoPro mount
-* Board hitch
+### Future accessories (in no particular order):
+* Back pack mount
 * Phone mount
+* Board hitch
+* GoPro mount
 * Speaker mount
