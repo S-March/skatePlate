@@ -10,7 +10,7 @@ Then download any other accessories you wish to use!
 
 ### Future accessories (in no particular order):
 * Back pack mount
-* Phone mount
-* Board hitch
-* GoPro mount
 * Speaker mount
+* GoPro mount (done)
+* Phone mount (done)
+* Board hitch (done)
